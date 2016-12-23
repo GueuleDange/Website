@@ -1,0 +1,145 @@
+body
+{
+    font-family: verdana, sans-serif;
+    font-size: 1em;
+    background-image: url("../img/gand1.jpg");
+
+    
+}
+
+h1 
+{
+    text-align: center;
+    color: red;
+}
+
+.enter
+{
+    text-align: center;
+
+}
+
+
+
+li
+{
+    float: left;
+   
+}
+ 
+
+img
+{
+    float: left;
+    width: 30%;
+    
+    margin-top: 17%;
+    margin-left: 30%;
+}
+
+.homep
+{
+    line-height: 140%;
+    padding-top: 12%;
+    padding-right: 32%;
+    font-size: 130%;
+
+}
+
+.homeimg
+{
+    font-size: 35px;
+}
+
+
+h2
+{
+    
+    font-size: 250%;
+    
+}
+
+
+
+a:link {
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+
+
+
+/*Nav-------------*/
+
+#nav{
+    width: 40%;
+    height: 5em;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 15%;
+    
+    
+}
+ul {
+   padding-right: initial;
+    width: initial;
+    background-color: black;
+    padding-left: 15%;
+
+    
+}
+li {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    list-style: none;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+a:link{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+a:visited{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+a:hover{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+a:active{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: red;
+}
+color
+{
+    color: red;
+}
+li:hover{
+    background-color: gray;
+    color: red;
+    text-decoration: none;
+    list-style: none;
+}
+
+

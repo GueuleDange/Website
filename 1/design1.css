@@ -1,0 +1,255 @@
+body
+{
+    font-size: 1em;
+    background-image: url("../img/achtergrond.jpg");
+    display: block;
+    font-family: verdana, sans-serif;
+    
+}
+
+
+li
+{
+    float: left;   
+}
+ 
+
+img
+{
+    float: left;
+    width: 30%;
+    margin-top: 17%;
+    margin-left: 30%;
+}
+
+.homep
+{
+    line-height: 140%;
+    padding-top: 12%;
+    padding-right: 32%;
+    font-size: 130%;
+
+}
+
+.homeimg
+{
+    font-size: 35px;
+}
+
+
+h2
+{
+    
+    font-size: 180%;
+    
+}
+
+
+
+/*Balk*/
+
+#nav{
+    width: 40%;
+    height: 5em;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+ul {
+   padding-right: initial;
+    width: initial;
+    background-color: black;
+    padding-left: 30%;
+
+    
+}
+li {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    list-style: none;
+    background-color: black;
+}
+a:link{
+    
+    font-size: 25px;
+    text-decoration: none;
+    
+    color: white;
+}
+a:visited{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+a:hover{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+a:active{
+    
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+li:hover{
+    background-color: gray;
+}
+
+
+
+
+/*Menu*/
+
+
+.video
+{
+
+    margin-left: 32%;
+}
+
+.beschrijving
+{
+    text-align: center;
+    padding: 7%;
+    font-size: 180%;
+    font-family: sans-serif;
+
+}
+
+
+
+
+.ouvert{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;}
+
+.ouvert caption{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-size: 400%;
+    color: black;
+    font-family: fantasy, sans-serif;
+}
+
+.ouvert th{
+    width: 10%;
+    background-color: black;
+    font-size: 200%;
+    text-decoration: inherit;
+    color: white;
+    text-align: center;}
+
+.ouvert td {
+    width: 10%;
+    height: 200%;
+    box-shadow: 1px -1px 10px 1px rgba(9, 5, 9, 0.7) inset;
+    border-radius: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 170%;}
+
+.black{ 
+    height: 10%;
+background-color: black;
+color: white;}
+
+
+
+.groot{
+    background-color: black;
+    color: white;
+    font-size: 180%;
+    text-align: center;}
+
+.groot1{
+    
+    background-color: grey;
+    color: black;
+    font-size: 200%;
+    text-align: center;}
+
+.ster
+{
+    
+    color: red;
+    font-size: 120%;
+    background-color: black;
+}
+
+
+
+/*-----------------------------Prijzen--------------------------------------*/
+
+
+
+
+
+.fond2 {
+    
+    margin-left: 22%;
+    margin-top: 5%;
+    display: inline-block;
+    background: #1a1a1a;
+    color: #FFF8DC;
+    
+}
+
+.fond2 {
+    border-radius: 12px;
+}
+
+.pas {
+    padding: 10px;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 2.5rem;
+    color: #FFEA00;
+    
+}
+
+
+
+
+.contact
+
+{
+    margin-left: 7%;
+}
+
+.licontact
+{
+    color: white;
+    background-color:  #1a1a1a;
+    
+}
+
+
+.pcontact
+{
+    color: #FFEA00;
+    font-family: fantasy;
+    font-size: 140%;
+    text-align: center;
+    
+}
+
+
+
+
+
+    
